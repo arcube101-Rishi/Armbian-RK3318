@@ -1,5 +1,6 @@
 # HOW-TO: Convert cheap android-tv-box to Linux
-UseCases: Web-Scraping | Smart-Home | Ad-Filteration | Home Network Security 
+# UseCases: Web-Scraping | Smart-Home | Internet AD Blocker | Home Network Security | Block dangerous WebSites
+
 I wanted to crawl and scrape some sites repeatedly and did not want my main PC running 24x7.
 There are plenty of cheap android tv boxes available on AliExpress and consume very little power, approx 5 - 7w, so I bought some for US$22 each and converted them to Armbian.
 In my opinion these boxes have enough power to run python based scrapy as most of the time program/scraper is waiting for net IO, a quick search on AliExpress produced these 2 –
